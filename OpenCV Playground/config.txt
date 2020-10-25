@@ -1,0 +1,4 @@
+frameWidth = 640
+frameHeight = 480
+frameBrightness = 150
+count = 0

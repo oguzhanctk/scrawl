@@ -1,0 +1,13 @@
+{
+  "id": "oguzhannn/simple-eda-about-airbnb-in-new-york-2019",
+  "title": "Simple EDA about airbnb in New York 2019",
+  "code_file": "homework.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": ["dgomonov/new-york-city-airbnb-open-data"],
+  "competition_sources": [],
+  "kernel_sources": []
+}
